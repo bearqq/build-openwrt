@@ -11,5 +11,6 @@
 git clone --depth 1 https://github.com/fw876/helloworld package/luci-app-ssr-plus 
 git clone --depth 1 https://github.com/vernesong/OpenClash package/luci-app-openclash
 git clone --depth 1 https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
+git clone --depth 1 https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone --depth 1 https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
 git clone --depth 1 https://github.com/frainzy1477/luci-app-clash package/luci-app-clash
